@@ -21,5 +21,8 @@ public class ExampleMod {
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 		MinecraftForge.EVENT_BUS.register(this);
+		MinecraftForge.EVENT_BUS.register(new ModHandler());
+		
+		//STUB register items using ModItems.register(...)
 	}
 }
