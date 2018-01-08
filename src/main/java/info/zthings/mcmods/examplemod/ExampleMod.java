@@ -1,5 +1,6 @@
 package info.zthings.mcmods.examplemod;
 
+import info.zthings.mcmods.examplemod.lazy.ModHandler;
 import info.zthings.mcmods.examplemod.proxy.CommonProxy;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -24,5 +25,6 @@ public class ExampleMod {
 		MinecraftForge.EVENT_BUS.register(new ModHandler());
 		
 		//STUB register items using ModItems.register(...)
+		//STUB register blocks using ModBlocks.register(...)
 	}
 }
