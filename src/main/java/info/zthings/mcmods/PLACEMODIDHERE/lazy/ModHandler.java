@@ -1,8 +1,8 @@
-package info.zthings.mcmods.examplemod.lazy;
+package info.zthings.mcmods.PLACEMODIDHERE.lazy;
 
 import java.util.ArrayList;
 
-import info.zthings.mcmods.examplemod.ExampleMod;
+import info.zthings.mcmods.PLACEMODIDHERE.ExampleMod;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

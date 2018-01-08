@@ -1,4 +1,4 @@
-package info.zthings.mcmods.examplemod.proxy;
+package info.zthings.mcmods.PLACEMODIDHERE.proxy;
 
 import net.minecraft.item.Item;
 

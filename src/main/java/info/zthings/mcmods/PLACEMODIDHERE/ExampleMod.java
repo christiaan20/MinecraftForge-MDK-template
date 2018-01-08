@@ -1,7 +1,7 @@
-package info.zthings.mcmods.examplemod;
+package info.zthings.mcmods.PLACEMODIDHERE;
 
-import info.zthings.mcmods.examplemod.lazy.ModHandler;
-import info.zthings.mcmods.examplemod.proxy.CommonProxy;
+import info.zthings.mcmods.PLACEMODIDHERE.lazy.ModHandler;
+import info.zthings.mcmods.PLACEMODIDHERE.proxy.CommonProxy;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

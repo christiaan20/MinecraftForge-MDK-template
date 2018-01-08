@@ -1,4 +1,4 @@
-package info.zthings.mcmods.examplemod.lazy;
+package info.zthings.mcmods.PLACEMODIDHERE.lazy;
 
 import net.minecraft.item.Item;
 

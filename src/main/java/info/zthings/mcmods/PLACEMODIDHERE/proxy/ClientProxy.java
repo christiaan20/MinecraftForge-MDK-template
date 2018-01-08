@@ -1,6 +1,6 @@
-package info.zthings.mcmods.examplemod.proxy;
+package info.zthings.mcmods.PLACEMODIDHERE.proxy;
 
-import info.zthings.mcmods.examplemod.ExampleMod;
+import info.zthings.mcmods.PLACEMODIDHERE.ExampleMod;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;
